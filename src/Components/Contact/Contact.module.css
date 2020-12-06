@@ -1,0 +1,11 @@
+.contact {
+    height: 71vh;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center;
+    margin: auto;
+}
+
+
+
