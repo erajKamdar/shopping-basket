@@ -8,7 +8,7 @@ const Contact = () => {
            
             <h1 style={{ color: "purple" }} className="center">Contact Query</h1>
             <br />
-            <a className="btn btn-info center " href="https://github.com/erajKamdar?tab=repositories">
+            <a className="btn btn-info center " href="https://github.com/erajKamdar/shopping-basket">
                 <GitHubIcon width={"18px"} />
                 <span className="ml-2 mr-4 text-center">
                     Visit Repo
