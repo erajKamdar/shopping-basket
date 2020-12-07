@@ -4,7 +4,7 @@ import { HomeIcon } from '../index';
 import {CartIcon} from '../index';
 import { useSelector } from 'react-redux'
 import { ProductItem } from '../../store/state';
-
+import './Header.css'
 const Header = () => {
     const products = useSelector((state: ProductItem[]) => state)
     let itemCount = products.filter(product => product.added).length

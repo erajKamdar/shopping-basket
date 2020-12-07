@@ -20,7 +20,6 @@
   }
     
   th, td {
-    /* border-bottom: 1px solid #ddd; */
     text-align: left;
     padding: 8px;
   }
@@ -28,7 +27,7 @@
   .payment {
     background: transparent ;
   }
-  /*     */
+ 
   
   @media(max-width:500px){
     .img-flued{
